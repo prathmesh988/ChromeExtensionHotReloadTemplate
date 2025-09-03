@@ -1,4 +1,4 @@
-# React Chrome Extension Template
+# React Chrome Extension With HotReloading Template
 
 This is a template for creating a Chrome extension using React and [Vite](https://vitejs.dev/) with TypeScript.
 
