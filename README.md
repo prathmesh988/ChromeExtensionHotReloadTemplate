@@ -29,8 +29,8 @@ Make sure you have [Node.js](https://nodejs.org/) (version 18+ or 20+) installed
 
 To start the development server:
 
-```sh
-npm run dev
+```sh setup this hmr
+npx vite build --watch
 ```
 
 This will start the Vite development server and open your default browser.
@@ -41,6 +41,10 @@ To create a production build:
 
 ```sh
 npm run build
+```
+
+```    
+npm install hot-reload-extension-vite
 ```
 
 This will generate the build files in the `build` directory.
